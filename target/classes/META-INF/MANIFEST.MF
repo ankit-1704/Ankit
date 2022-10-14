@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ankit
+Build-Jdk: 18.0.1
+Implementation-Title: SpringBootInterceptorSample
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.innodeed
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootInterceptorSample
+Created-By: Maven Integration for Eclipse
+
